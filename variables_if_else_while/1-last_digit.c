@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-  * main = Entry point
+  * main - Entry point
   *
   *Return: Always 0 (Success)
   */
@@ -22,11 +22,11 @@ int main(void)
 	}
 	else if (last > 5)
 	{
-		printf("Last digit of %d is %d is greater tan 5\n", n, last);
+		printf("Last digit of %d is %d and is greater tan 5\n", n, last);
 	}
 	else
 	{
-		printf("Last digit of %d is %d and is less tan 6 and not 0\n", last, n);
+		printf("Last digit of %d is %d and is less tan 6 and not 0\n", n, last);
 	}
 	return (0);
 }
