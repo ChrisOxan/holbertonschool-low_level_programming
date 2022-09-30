@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Retry point
+ * print_alphabet - Retry point
  *
  * Return: 0
  */
