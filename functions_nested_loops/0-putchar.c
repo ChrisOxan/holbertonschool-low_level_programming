@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  * main - Retry point
@@ -8,8 +8,14 @@
 
 int main(void)
 {
-	printf("_putchar");
+	char letras[8] = "_putchar";
 
-	putchar('\n');
-	return (0);
+	int num;
+
+	for (num = 0; num < 8; num++)
+	{
+		_putchar(letras[num]);
+	}
+		_putchar('\n');
+		return (0);
 }
