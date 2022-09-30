@@ -1,8 +1,4 @@
-
-/**
- *File:main.h
- *
- *Desc:header file containing functions declaration
- */
+#include <stdio.h>
 
 int _putchar(char);
+void print_alphabet(void);
