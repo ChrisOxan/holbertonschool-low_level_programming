@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * print_last_digit - Entry point
+ * jack_bauer - Entry point
  *
  * Return: 0
  */
+
 void jack_bauer(void)
 {
 	int hora;
