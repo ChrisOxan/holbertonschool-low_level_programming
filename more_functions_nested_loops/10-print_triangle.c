@@ -15,7 +15,7 @@ void print_triangle(int size)
 
 	if (size > 0)
 	{
-		for (a = 1; a < size; a++)
+		for (a = 0; a < size; a++)
 		{
 			for (b = size - 1; b >= 0; b--)
 			{
