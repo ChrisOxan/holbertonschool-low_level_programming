@@ -1,2 +1,0 @@
-Punteros
-Proyecto 2
