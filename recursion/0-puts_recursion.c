@@ -1,6 +1,7 @@
 #include "main.h"
 
-/**_puts_recursion - She locked away a secret, deep inside herself
+/**
+ * _puts_recursion - She locked away a secret, deep inside herself
  *
  *@s: prints a string
  *
