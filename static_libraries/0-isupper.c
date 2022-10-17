@@ -1,1 +1,8 @@
-int _isupper(int c);
+#include "mian.h"
+
+/**
+ */
+
+int _isupper(int c)
+{
+}
