@@ -1,7 +1,7 @@
 #include "variadic_functions.h"
 
 /**
- * print_stings - One woman's constant is another woman's variable
+ * print_strings - One woman's constant is another woman's variable
  * @separator: is the string to be printed between the strings
  * @n: is the number of strings passed to the function
  * Return: 0
