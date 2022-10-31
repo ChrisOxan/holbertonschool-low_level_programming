@@ -41,7 +41,7 @@ int op_mul(int a, int b)
  * op_div - function to div
  * @a: input 1
  * @b: input 2
- * Retunr: division of a by b
+ * Return: division of a by b
  */
 
 int op_div(int a, int b)
