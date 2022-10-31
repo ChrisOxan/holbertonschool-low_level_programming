@@ -1,5 +1,5 @@
 #ifndef VARFUNC_H
-#define VARFUNC_h
+#define VARFUNC_H
 #include <stdarg.h>
 #include <stdio.h>
 #include <stdlib.h>
