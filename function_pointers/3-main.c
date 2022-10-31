@@ -8,7 +8,7 @@
  * Return: int
  */
 
-int mian(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	char *sign;
 	char operator;
